@@ -1,5 +1,10 @@
 ## Hi there, I am Santiago 👋
-
-[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,bootstrap,c,cpp,docker,git,github,jquery,latex,linkedin,mysql,postgres,postman,vscode,js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,angular,bootstrap,c,js" />
+    <img src="https://skillicons.dev/icons?i=cpp,docker,git,github,jquery,latex,html" />
+    <img src="https://skillicons.dev/icons?i=linkedin,mysql,php,postgres,postman,vscode,css" />
+  </a>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santiago29-6&show=reviews,prs_merged&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
