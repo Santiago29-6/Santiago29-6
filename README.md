@@ -18,7 +18,7 @@ I’m **Telematics Engineering** student and an aspiring developer with hands-on
 ## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Santiago29-6&show_icons=true&theme=radical&hide=stars,contribs" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Santiago29-6&show_icons=true&theme=radical&hide=stars,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
