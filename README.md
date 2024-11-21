@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Santiago!
 
-I’m a passionate **Telematics Engineering** student and an aspiring developer with hands-on experience in technologies like **Java**, **Spring Boot**, **Angular**, and relational databases such as **MySQL** and **PostgreSQL**. I’m always eager to learn and apply new technologies to solve real-world problems. 🚀
+I’m **Telematics Engineering** student and an aspiring developer with hands-on experience in technologies like **Java**, **Spring Boot**, **Angular**, and relational databases such as **MySQL** and **PostgreSQL**. I’m always eager to learn and apply new technologies to solve real-world problems. 🚀
 
 ---
 
@@ -42,7 +42,7 @@ I’m a passionate **Telematics Engineering** student and an aspiring developer 
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://linkedin.com/in/santiago-chavarro/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
